@@ -20,6 +20,8 @@ p {
 
 img {
   float: inherit;
+	width: 728px;
+	height:  360px;
 }
 
 .center {
